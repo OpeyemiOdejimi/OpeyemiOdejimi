@@ -1,16 +1,17 @@
-## Hi there 👋
+# Opeyemi Odejimi - Cloud/DevOps Engineer and Technical Writer
+My name is Opeyemi Odejimi, a budding Cloud/DevOps Engineer and Technical Writer from Nigeria with a strong background in IT support and Sys Admin. My love for writing also led me into the world of Technical Writing.
 
-<!--
-**OpeyemiOdejimi/OpeyemiOdejimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :wrench: Skills and Technologies
 
-Here are some ideas to get you started:
+* **Cloud**: GCP, AWS, Azure
+* **Containerization**: Docker, Kubernetes
+* **Version control**: Git, GitHub
+* **Scripting**: Bash, Python
+* **Writing**: Markdown, AsciiDoc, DITA XML, API Documentation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :technologist: Contact Me
+
+* **Email**: opeyemiodejimii384@gmail.com
+* [Opeyemi Odejimi](https://www.linkedin.com/in/opeyemiodejimi)
+* [Opeyemi Odejimi](https://hashnode.com/@OpeyemiOdejimi)
+  
