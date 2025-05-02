@@ -11,7 +11,7 @@ My name is Opeyemi Odejimi, a budding Cloud/DevOps Engineer and Technical Writer
 
 ## :technologist: Contact Me
 
-* **Email**: opeyemiodejimii384@gmail.com
+* **Email**: iamopeyemiodejimi@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/opeyemiodejimi)
 * [Hashnode](https://hashnode.com/@OpeyemiOdejimi)
   
