@@ -1,4 +1,4 @@
-# Opeyemi Odejimi - Cloud/DevOps Engineer and Technical Writer
+# Opeyemi Odejimi - DevOps, MLOps Engineer and Technical Writer
 My name is Opeyemi Odejimi, a budding Cloud/DevOps Engineer and Technical Writer from Nigeria with a strong background in IT support and Sys Admin. My love for writing also led me into the world of Technical Writing.
 
 ## :wrench: Skills and Technologies
